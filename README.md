@@ -1,3 +1,11 @@
+# Weather React app
+
+Live Site URL: https://weather-react-app-dn.netlify.app/
+
+![Design preview for the Weather React App](./weather-app.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
